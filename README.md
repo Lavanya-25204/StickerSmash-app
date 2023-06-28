@@ -14,3 +14,5 @@
 
 ### To run the application 
    * npx expo start -c
+
+#### Reference : https://docs.expo.dev/tutorial/create-your-first-app/
